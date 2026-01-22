@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# requesting input for the user
+
+# requesting input for the engineer
 read -p "What is your name: " name \n
 
-# Printing useful information to the user
+# Printing useful details for the engineer
 echo "my name is $name"
